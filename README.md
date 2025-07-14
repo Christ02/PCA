@@ -16,7 +16,7 @@ This repository contains a hands-on Jupyter Notebook for learning Principal Comp
 
 ## Installation
 
-Clone and install dependencies in one step:
+Clone repo:
 
 ```bash
 git clone https://github.com/Christ02/PCA.git
